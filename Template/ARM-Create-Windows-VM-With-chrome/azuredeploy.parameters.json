@@ -5,9 +5,6 @@
     "adminUsername": {
       "value": "sujan"
     },
-    "adminPassword": {
-      "value": null
-    },
     "dnsLabelPrefix": {
       "value": "simple-vm-il5g37ksimrtk"
     },
