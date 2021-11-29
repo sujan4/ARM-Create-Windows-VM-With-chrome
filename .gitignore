@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Template/ARM-Create-Windows-VM-With-chrome/obj/Debug
+/Template/ARM-Create-Windows-VM-With-chrome/bin/Debug/staging/ARM-Create-Windows-VM-With-chrome
+/Template/.vs/ARM-Create-Windows-VM-With-chrome
